@@ -1,0 +1,61 @@
+{
+  "7be652009241f5d5fda3e56f7ed54de4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46866894aba36f08",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Tobbe' to be 'Tobbe2'.",
+      "time" : {
+        "start" : 1527869475853,
+        "stop" : 1527869476497,
+        "duration" : 644
+      }
+    } ]
+  },
+  "1e243b59c7824e2b035166087e6159f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c41b596a80403d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1527869474656,
+        "stop" : 1527869475310,
+        "duration" : 654
+      }
+    } ]
+  },
+  "89f1b4d445b891bb8991ba0e5eb5fda7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9302b1b4d2a91708",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Carl' to be 'Carl2'.",
+      "time" : {
+        "start" : 1527869475312,
+        "stop" : 1527869475853,
+        "duration" : 541
+      }
+    } ]
+  }
+}

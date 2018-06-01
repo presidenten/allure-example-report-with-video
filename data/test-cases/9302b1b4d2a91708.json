@@ -1,0 +1,207 @@
+{
+  "uid" : "9302b1b4d2a91708",
+  "name" : "should be able to sort ascending",
+  "fullName" : "User list.should be able to sort ascending",
+  "historyId" : "89f1b4d445b891bb8991ba0e5eb5fda7",
+  "time" : {
+    "start" : 1527869475312,
+    "stop" : 1527869475853,
+    "duration" : 541
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Carl' to be 'Carl2'.",
+  "statusTrace" : "Error: Expected 'Carl' to be 'Carl2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (selenoid-video-api/demo/src/sort.e2e.js:14:18)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Carl' to be 'Carl2'.",
+    "statusTrace" : "Error: Expected 'Carl' to be 'Carl2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (selenoid-video-api/demo/src/sort.e2e.js:14:18)",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/url",
+      "time" : {
+        "start" : 1527869475421,
+        "stop" : 1527869475474,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6b208bf80d0c8c0c",
+        "name" : "Request",
+        "source" : "6b208bf80d0c8c0c.json",
+        "type" : "application/json",
+        "size" : 43
+      }, {
+        "uid" : "7092d1efd946397e",
+        "name" : "Response",
+        "source" : "7092d1efd946397e.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element",
+      "time" : {
+        "start" : 1527869475478,
+        "stop" : 1527869475500,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "429a3d4562fc1edc",
+        "name" : "Request",
+        "source" : "429a3d4562fc1edc.json",
+        "type" : "application/json",
+        "size" : 63
+      }, {
+        "uid" : "673a30f256afdc82",
+        "name" : "Response",
+        "source" : "673a30f256afdc82.json",
+        "type" : "application/json",
+        "size" : 134
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element/0.30778247160991-1/click",
+      "time" : {
+        "start" : 1527869475500,
+        "stop" : 1527869475557,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d6f6dc34c26dc507",
+        "name" : "Response",
+        "source" : "d6f6dc34c26dc507.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element",
+      "time" : {
+        "start" : 1527869475560,
+        "stop" : 1527869475575,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4d913fcc4f7ec7de",
+        "name" : "Request",
+        "source" : "4d913fcc4f7ec7de.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "99cc08c4c3877c4c",
+        "name" : "Response",
+        "source" : "99cc08c4c3877c4c.json",
+        "type" : "application/json",
+        "size" : 134
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element/0.30778247160991-2/text",
+      "time" : {
+        "start" : 1527869475581,
+        "stop" : 1527869475603,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4edaa1ceca7fc7ab",
+        "name" : "Response",
+        "source" : "4edaa1ceca7fc7ab.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "e42941655a4dacbf",
+      "name" : "Screenshot",
+      "source" : "e42941655a4dacbf.png",
+      "type" : "image/png",
+      "size" : 12153
+    }, {
+      "uid" : "4d29342bf857423f",
+      "name" : "Execution video",
+      "source" : "4d29342bf857423f.mp4",
+      "type" : "video/mp4",
+      "size" : 10109
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "suite",
+    "value" : "User list"
+  }, {
+    "name" : "testClass",
+    "value" : "User list"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to sort ascending"
+  }, {
+    "name" : "package",
+    "value" : "User list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9302b1b4d2a91708.json",
+  "parameterValues" : [ "chrome" ]
+}

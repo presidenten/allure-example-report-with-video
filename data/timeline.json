@@ -1,0 +1,41 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "should be able right default",
+    "uid" : "4c41b596a80403d1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1527869474656,
+      "stop" : 1527869475310,
+      "duration" : 654
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "should be able to sort descending",
+    "uid" : "46866894aba36f08",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1527869475853,
+      "stop" : 1527869476497,
+      "duration" : 644
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "should be able to sort ascending",
+    "uid" : "9302b1b4d2a91708",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1527869475312,
+      "stop" : 1527869475853,
+      "duration" : 541
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  } ]
+}

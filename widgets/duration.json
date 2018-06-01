@@ -1,0 +1,31 @@
+[ {
+  "uid" : "4c41b596a80403d1",
+  "name" : "should be able right default",
+  "time" : {
+    "start" : 1527869474656,
+    "stop" : 1527869475310,
+    "duration" : 654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46866894aba36f08",
+  "name" : "should be able to sort descending",
+  "time" : {
+    "start" : 1527869475853,
+    "stop" : 1527869476497,
+    "duration" : 644
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9302b1b4d2a91708",
+  "name" : "should be able to sort ascending",
+  "time" : {
+    "start" : 1527869475312,
+    "stop" : 1527869475853,
+    "duration" : 541
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

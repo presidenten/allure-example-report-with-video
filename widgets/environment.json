@@ -1,0 +1,7 @@
+[ {
+  "values" : [ "{\"maxInstances\":1,\"browserName\":\"chrome\",\"enableVideo\":true,\"enableVNC\":true}" ],
+  "name" : "capabilities"
+}, {
+  "values" : [ "[\"selenoid-video-api/demo/src/sort.e2e.js\"]" ],
+  "name" : "spec files"
+} ]

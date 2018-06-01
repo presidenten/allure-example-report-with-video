@@ -1,0 +1,207 @@
+{
+  "uid" : "46866894aba36f08",
+  "name" : "should be able to sort descending",
+  "fullName" : "User list.should be able to sort descending",
+  "historyId" : "7be652009241f5d5fda3e56f7ed54de4",
+  "time" : {
+    "start" : 1527869475853,
+    "stop" : 1527869476497,
+    "duration" : 644
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Tobbe' to be 'Tobbe2'.",
+  "statusTrace" : "Error: Expected 'Tobbe' to be 'Tobbe2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (selenoid-video-api/demo/src/sort.e2e.js:21:18)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Tobbe' to be 'Tobbe2'.",
+    "statusTrace" : "Error: Expected 'Tobbe' to be 'Tobbe2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (selenoid-video-api/demo/src/sort.e2e.js:21:18)",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/url",
+      "time" : {
+        "start" : 1527869475955,
+        "stop" : 1527869475989,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e9f8132362977286",
+        "name" : "Request",
+        "source" : "e9f8132362977286.json",
+        "type" : "application/json",
+        "size" : 43
+      }, {
+        "uid" : "4bf3553c10b77c88",
+        "name" : "Response",
+        "source" : "4bf3553c10b77c88.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element",
+      "time" : {
+        "start" : 1527869475994,
+        "stop" : 1527869476019,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "93e40ca8719909d0",
+        "name" : "Request",
+        "source" : "93e40ca8719909d0.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "528a1fe422015012",
+        "name" : "Response",
+        "source" : "528a1fe422015012.json",
+        "type" : "application/json",
+        "size" : 138
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element/0.018819670868751803-1/click",
+      "time" : {
+        "start" : 1527869476019,
+        "stop" : 1527869476076,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d829806d9c2eb735",
+        "name" : "Response",
+        "source" : "d829806d9c2eb735.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element",
+      "time" : {
+        "start" : 1527869476079,
+        "stop" : 1527869476093,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d17d1a034bed4b2",
+        "name" : "Request",
+        "source" : "d17d1a034bed4b2.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "97e5a8a6985aa343",
+        "name" : "Response",
+        "source" : "97e5a8a6985aa343.json",
+        "type" : "application/json",
+        "size" : 138
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element/0.018819670868751803-2/text",
+      "time" : {
+        "start" : 1527869476099,
+        "stop" : 1527869476125,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ce70af7e03161e77",
+        "name" : "Response",
+        "source" : "ce70af7e03161e77.json",
+        "type" : "application/json",
+        "size" : 94
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "44ace1381e56be53",
+      "name" : "Screenshot",
+      "source" : "44ace1381e56be53.png",
+      "type" : "image/png",
+      "size" : 12143
+    }, {
+      "uid" : "ca4cbc039145feb7",
+      "name" : "Execution video",
+      "source" : "ca4cbc039145feb7.mp4",
+      "type" : "video/mp4",
+      "size" : 9834
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "suite",
+    "value" : "User list"
+  }, {
+    "name" : "testClass",
+    "value" : "User list"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to sort descending"
+  }, {
+    "name" : "package",
+    "value" : "User list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "46866894aba36f08.json",
+  "parameterValues" : [ "chrome" ]
+}

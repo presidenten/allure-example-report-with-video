@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "User list",
+    "children" : [ {
+      "name" : "should be able right default",
+      "uid" : "4c41b596a80403d1",
+      "parentUid" : "5b1bf457ebdc68e06082b362d47d86bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1527869474656,
+        "stop" : 1527869475310,
+        "duration" : 654
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "should be able to sort ascending",
+      "uid" : "9302b1b4d2a91708",
+      "parentUid" : "5b1bf457ebdc68e06082b362d47d86bb",
+      "status" : "failed",
+      "time" : {
+        "start" : 1527869475312,
+        "stop" : 1527869475853,
+        "duration" : 541
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "should be able to sort descending",
+      "uid" : "46866894aba36f08",
+      "parentUid" : "5b1bf457ebdc68e06082b362d47d86bb",
+      "status" : "failed",
+      "time" : {
+        "start" : 1527869475853,
+        "stop" : 1527869476497,
+        "duration" : 644
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "5b1bf457ebdc68e06082b362d47d86bb"
+  } ]
+}

@@ -1,0 +1,41 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected 'Carl' to be 'Carl2'.",
+      "children" : [ {
+        "name" : "should be able to sort ascending",
+        "uid" : "9302b1b4d2a91708",
+        "parentUid" : "708f49b617d9d10cc2747115b1508159",
+        "status" : "failed",
+        "time" : {
+          "start" : 1527869475312,
+          "stop" : 1527869475853,
+          "duration" : 541
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "708f49b617d9d10cc2747115b1508159"
+    }, {
+      "name" : "Expected 'Tobbe' to be 'Tobbe2'.",
+      "children" : [ {
+        "name" : "should be able to sort descending",
+        "uid" : "46866894aba36f08",
+        "parentUid" : "55eb27faf1f06c25227c37fae2e10abe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1527869475853,
+          "stop" : 1527869476497,
+          "duration" : 644
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "55eb27faf1f06c25227c37fae2e10abe"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
