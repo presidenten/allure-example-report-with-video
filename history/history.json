@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "46866894aba36f08",
+      "uid" : "f2ff9b2c742bf9a4",
       "status" : "failed",
       "statusDetails" : "Expected 'Tobbe' to be 'Tobbe2'.",
       "time" : {
-        "start" : 1527869475853,
-        "stop" : 1527869476497,
-        "duration" : 644
+        "start" : 1527934694334,
+        "stop" : 1527934694881,
+        "duration" : 547
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4c41b596a80403d1",
+      "uid" : "ad6c33468e929854",
       "status" : "passed",
       "time" : {
-        "start" : 1527869474656,
-        "stop" : 1527869475310,
-        "duration" : 654
+        "start" : 1527934693219,
+        "stop" : 1527934693844,
+        "duration" : 625
       }
     } ]
   },
@@ -48,13 +48,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9302b1b4d2a91708",
+      "uid" : "99deddb38ef5dd31",
       "status" : "failed",
       "statusDetails" : "Expected 'Carl' to be 'Carl2'.",
       "time" : {
-        "start" : 1527869475312,
-        "stop" : 1527869475853,
-        "duration" : 541
+        "start" : 1527934693845,
+        "stop" : 1527934694334,
+        "duration" : 489
       }
     } ]
   }

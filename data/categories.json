@@ -7,13 +7,13 @@
       "name" : "Expected 'Carl' to be 'Carl2'.",
       "children" : [ {
         "name" : "should be able to sort ascending",
-        "uid" : "9302b1b4d2a91708",
+        "uid" : "99deddb38ef5dd31",
         "parentUid" : "708f49b617d9d10cc2747115b1508159",
         "status" : "failed",
         "time" : {
-          "start" : 1527869475312,
-          "stop" : 1527869475853,
-          "duration" : 541
+          "start" : 1527934693845,
+          "stop" : 1527934694334,
+          "duration" : 489
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -23,13 +23,13 @@
       "name" : "Expected 'Tobbe' to be 'Tobbe2'.",
       "children" : [ {
         "name" : "should be able to sort descending",
-        "uid" : "46866894aba36f08",
+        "uid" : "f2ff9b2c742bf9a4",
         "parentUid" : "55eb27faf1f06c25227c37fae2e10abe",
         "status" : "failed",
         "time" : {
-          "start" : 1527869475853,
-          "stop" : 1527869476497,
-          "duration" : 644
+          "start" : 1527934694334,
+          "stop" : 1527934694881,
+          "duration" : 547
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]

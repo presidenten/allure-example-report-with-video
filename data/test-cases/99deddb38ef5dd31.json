@@ -1,43 +1,43 @@
 {
-  "uid" : "46866894aba36f08",
-  "name" : "should be able to sort descending",
-  "fullName" : "User list.should be able to sort descending",
-  "historyId" : "7be652009241f5d5fda3e56f7ed54de4",
+  "uid" : "99deddb38ef5dd31",
+  "name" : "should be able to sort ascending",
+  "fullName" : "User list.should be able to sort ascending",
+  "historyId" : "89f1b4d445b891bb8991ba0e5eb5fda7",
   "time" : {
-    "start" : 1527869475853,
-    "stop" : 1527869476497,
-    "duration" : 644
+    "start" : 1527934693845,
+    "stop" : 1527934694334,
+    "duration" : 489
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "failed",
-  "statusMessage" : "Expected 'Tobbe' to be 'Tobbe2'.",
-  "statusTrace" : "Error: Expected 'Tobbe' to be 'Tobbe2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (selenoid-video-api/demo/src/sort.e2e.js:21:18)",
+  "statusMessage" : "Expected 'Carl' to be 'Carl2'.",
+  "statusTrace" : "Error: Expected 'Carl' to be 'Carl2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (~/kod/github/selenoid-video-api/demo/src/sort.e2e.js:14:18)",
   "flaky" : false,
   "beforeStages" : [ ],
   "testStage" : {
     "status" : "failed",
-    "statusMessage" : "Expected 'Tobbe' to be 'Tobbe2'.",
-    "statusTrace" : "Error: Expected 'Tobbe' to be 'Tobbe2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (selenoid-video-api/demo/src/sort.e2e.js:21:18)",
+    "statusMessage" : "Expected 'Carl' to be 'Carl2'.",
+    "statusTrace" : "Error: Expected 'Carl' to be 'Carl2'.\n                    at <Jasmine>\n                    at <Jasmine>\n                    at UserContext.<anonymous> (~/kod/github/selenoid-video-api/demo/src/sort.e2e.js:14:18)",
     "steps" : [ {
-      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/url",
+      "name" : "POST /url",
       "time" : {
-        "start" : 1527869475955,
-        "stop" : 1527869475989,
-        "duration" : 34
+        "start" : 1527934693952,
+        "stop" : 1527934693993,
+        "duration" : 41
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "e9f8132362977286",
+        "uid" : "a67c6b3796c2129d",
         "name" : "Request",
-        "source" : "e9f8132362977286.json",
+        "source" : "a67c6b3796c2129d.json",
         "type" : "application/json",
         "size" : 43
       }, {
-        "uid" : "4bf3553c10b77c88",
+        "uid" : "42760291d5764c5",
         "name" : "Response",
-        "source" : "4bf3553c10b77c88.json",
+        "source" : "42760291d5764c5.json",
         "type" : "application/json",
         "size" : 91
       } ],
@@ -47,26 +47,26 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element",
+      "name" : "POST /element",
       "time" : {
-        "start" : 1527869475994,
-        "stop" : 1527869476019,
-        "duration" : 25
+        "start" : 1527934693997,
+        "stop" : 1527934694015,
+        "duration" : 18
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "93e40ca8719909d0",
+        "uid" : "91318bf3eb9e9a9d",
         "name" : "Request",
-        "source" : "93e40ca8719909d0.json",
+        "source" : "91318bf3eb9e9a9d.json",
         "type" : "application/json",
-        "size" : 64
+        "size" : 63
       }, {
-        "uid" : "528a1fe422015012",
+        "uid" : "e76085c72540f9f8",
         "name" : "Response",
-        "source" : "528a1fe422015012.json",
+        "source" : "e76085c72540f9f8.json",
         "type" : "application/json",
-        "size" : 138
+        "size" : 137
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -74,18 +74,18 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element/0.018819670868751803-1/click",
+      "name" : "POST /click",
       "time" : {
-        "start" : 1527869476019,
-        "stop" : 1527869476076,
-        "duration" : 57
+        "start" : 1527934694015,
+        "stop" : 1527934694068,
+        "duration" : 53
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "d829806d9c2eb735",
+        "uid" : "5c80776addc57a43",
         "name" : "Response",
-        "source" : "d829806d9c2eb735.json",
+        "source" : "5c80776addc57a43.json",
         "type" : "application/json",
         "size" : 91
       } ],
@@ -95,26 +95,26 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "POST /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element",
+      "name" : "POST /element",
       "time" : {
-        "start" : 1527869476079,
-        "stop" : 1527869476093,
-        "duration" : 14
+        "start" : 1527934694070,
+        "stop" : 1527934694082,
+        "duration" : 12
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "d17d1a034bed4b2",
+        "uid" : "d99200b360089b40",
         "name" : "Request",
-        "source" : "d17d1a034bed4b2.json",
+        "source" : "d99200b360089b40.json",
         "type" : "application/json",
         "size" : 53
       }, {
-        "uid" : "97e5a8a6985aa343",
+        "uid" : "78ac670a2c5f1b",
         "name" : "Response",
-        "source" : "97e5a8a6985aa343.json",
+        "source" : "78ac670a2c5f1b.json",
         "type" : "application/json",
-        "size" : 138
+        "size" : 137
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -122,20 +122,20 @@
       "shouldDisplayMessage" : false,
       "hasContent" : true
     }, {
-      "name" : "GET /wd/hub/session/25d2b2725b27c9cb5c862c426c51ed3b/element/0.018819670868751803-2/text",
+      "name" : "GET /text",
       "time" : {
-        "start" : 1527869476099,
-        "stop" : 1527869476125,
-        "duration" : 26
+        "start" : 1527934694088,
+        "stop" : 1527934694117,
+        "duration" : 29
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "ce70af7e03161e77",
+        "uid" : "8335011d0586f8eb",
         "name" : "Response",
-        "source" : "ce70af7e03161e77.json",
+        "source" : "8335011d0586f8eb.json",
         "type" : "application/json",
-        "size" : 94
+        "size" : 93
       } ],
       "parameters" : [ ],
       "stepsCount" : 0,
@@ -144,17 +144,17 @@
       "hasContent" : true
     } ],
     "attachments" : [ {
-      "uid" : "44ace1381e56be53",
+      "uid" : "bfbc8e4a50836c0c",
       "name" : "Screenshot",
-      "source" : "44ace1381e56be53.png",
+      "source" : "bfbc8e4a50836c0c.png",
       "type" : "image/png",
-      "size" : 12143
+      "size" : 12153
     }, {
-      "uid" : "ca4cbc039145feb7",
+      "uid" : "600b6f956f78dbe3",
       "name" : "Execution video",
-      "source" : "ca4cbc039145feb7.mp4",
+      "source" : "600b6f956f78dbe3.mp4",
       "type" : "video/mp4",
-      "size" : 9834
+      "size" : 9831
     } ],
     "parameters" : [ ],
     "stepsCount" : 5,
@@ -177,7 +177,7 @@
     "value" : "User list"
   }, {
     "name" : "testMethod",
-    "value" : "should be able to sort descending"
+    "value" : "should be able to sort ascending"
   }, {
     "name" : "package",
     "value" : "User list"
@@ -202,6 +202,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "46866894aba36f08.json",
+  "source" : "99deddb38ef5dd31.json",
   "parameterValues" : [ "chrome" ]
 }

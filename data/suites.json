@@ -5,37 +5,37 @@
     "name" : "User list",
     "children" : [ {
       "name" : "should be able right default",
-      "uid" : "4c41b596a80403d1",
+      "uid" : "ad6c33468e929854",
       "parentUid" : "4c20c0e6c7d9ec5ed9f16d875dc256f6",
       "status" : "passed",
       "time" : {
-        "start" : 1527869474656,
-        "stop" : 1527869475310,
-        "duration" : 654
+        "start" : 1527934693219,
+        "stop" : 1527934693844,
+        "duration" : 625
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "should be able to sort ascending",
-      "uid" : "9302b1b4d2a91708",
+      "uid" : "99deddb38ef5dd31",
       "parentUid" : "4c20c0e6c7d9ec5ed9f16d875dc256f6",
       "status" : "failed",
       "time" : {
-        "start" : 1527869475312,
-        "stop" : 1527869475853,
-        "duration" : 541
+        "start" : 1527934693845,
+        "stop" : 1527934694334,
+        "duration" : 489
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "should be able to sort descending",
-      "uid" : "46866894aba36f08",
+      "uid" : "f2ff9b2c742bf9a4",
       "parentUid" : "4c20c0e6c7d9ec5ed9f16d875dc256f6",
       "status" : "failed",
       "time" : {
-        "start" : 1527869475853,
-        "stop" : 1527869476497,
-        "duration" : 644
+        "start" : 1527934694334,
+        "stop" : 1527934694881,
+        "duration" : 547
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
