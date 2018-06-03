@@ -4,37 +4,37 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "Expected 'Carl' to be 'Carl2'.",
+      "name" : "Expected '39' to be 30.",
       "children" : [ {
-        "name" : "should be able to sort ascending",
-        "uid" : "99deddb38ef5dd31",
-        "parentUid" : "708f49b617d9d10cc2747115b1508159",
+        "name" : "should be able to move slider",
+        "uid" : "561d9a0d5985ce6c",
+        "parentUid" : "3a905bc67a30bc538f043610ab3b97dd",
         "status" : "failed",
         "time" : {
-          "start" : 1527934693845,
-          "stop" : 1527934694334,
-          "duration" : 489
+          "start" : 1528014335908,
+          "stop" : 1528014338356,
+          "duration" : 2448
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       } ],
-      "uid" : "708f49b617d9d10cc2747115b1508159"
+      "uid" : "3a905bc67a30bc538f043610ab3b97dd"
     }, {
-      "name" : "Expected 'Tobbe' to be 'Tobbe2'.",
+      "name" : "Expected false to be true.",
       "children" : [ {
-        "name" : "should be able to sort descending",
-        "uid" : "f2ff9b2c742bf9a4",
-        "parentUid" : "55eb27faf1f06c25227c37fae2e10abe",
+        "name" : "should be able to multi-select in dropdown",
+        "uid" : "79bf9a506d8bcd14",
+        "parentUid" : "9fadb135346cf8571bc1b84689d15149",
         "status" : "failed",
         "time" : {
-          "start" : 1527934694334,
-          "stop" : 1527934694881,
-          "duration" : 547
+          "start" : 1528014338356,
+          "stop" : 1528014340474,
+          "duration" : 2118
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
       } ],
-      "uid" : "55eb27faf1f06c25227c37fae2e10abe"
+      "uid" : "9fadb135346cf8571bc1b84689d15149"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]

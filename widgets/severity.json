@@ -1,30 +1,30 @@
 [ {
-  "uid" : "99deddb38ef5dd31",
-  "name" : "should be able to sort ascending",
+  "uid" : "79bf9a506d8bcd14",
+  "name" : "should be able to multi-select in dropdown",
   "time" : {
-    "start" : 1527934693845,
-    "stop" : 1527934694334,
-    "duration" : 489
+    "start" : 1528014338356,
+    "stop" : 1528014340474,
+    "duration" : 2118
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "ad6c33468e929854",
-  "name" : "should be able right default",
+  "uid" : "65f143250a49210d",
+  "name" : "should be able edit input",
   "time" : {
-    "start" : 1527934693219,
-    "stop" : 1527934693844,
-    "duration" : 625
+    "start" : 1528014332035,
+    "stop" : 1528014335908,
+    "duration" : 3873
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f2ff9b2c742bf9a4",
-  "name" : "should be able to sort descending",
+  "uid" : "561d9a0d5985ce6c",
+  "name" : "should be able to move slider",
   "time" : {
-    "start" : 1527934694334,
-    "stop" : 1527934694881,
-    "duration" : 547
+    "start" : 1528014335908,
+    "stop" : 1528014338356,
+    "duration" : 2448
   },
   "status" : "failed",
   "severity" : "normal"

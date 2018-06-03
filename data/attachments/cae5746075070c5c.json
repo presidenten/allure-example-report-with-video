@@ -1,0 +1,4 @@
+{
+    "using": "css selector",
+    "value": "#multi-select option[value=\"Ohio\"]"
+}
