@@ -7,13 +7,13 @@
       "name" : "Expected '39' to be 30.",
       "children" : [ {
         "name" : "should be able to move slider",
-        "uid" : "561d9a0d5985ce6c",
+        "uid" : "76dfe933b1e23d3e",
         "parentUid" : "3a905bc67a30bc538f043610ab3b97dd",
         "status" : "failed",
         "time" : {
-          "start" : 1528014335908,
-          "stop" : 1528014338356,
-          "duration" : 2448
+          "start" : 1528020298672,
+          "stop" : 1528020301009,
+          "duration" : 2337
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]
@@ -23,13 +23,13 @@
       "name" : "Expected false to be true.",
       "children" : [ {
         "name" : "should be able to multi-select in dropdown",
-        "uid" : "79bf9a506d8bcd14",
+        "uid" : "3e14a0e2dd4c4a7f",
         "parentUid" : "9fadb135346cf8571bc1b84689d15149",
         "status" : "failed",
         "time" : {
-          "start" : 1528014338356,
-          "stop" : 1528014340474,
-          "duration" : 2118
+          "start" : 1528020301009,
+          "stop" : 1528020302965,
+          "duration" : 1956
         },
         "flaky" : false,
         "parameters" : [ "chrome" ]

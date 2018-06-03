@@ -2,6 +2,6 @@
   "values" : [ "{\"maxInstances\":1,\"browserName\":\"chrome\",\"enableVideo\":true,\"enableVNC\":true}" ],
   "name" : "capabilities"
 }, {
-  "values" : [ "[\"~/kod/github/selenoid-video-api/demo/src/selenium-easy.e2e.js\"]" ],
+  "values" : [ "[\"~/kod/github/selenoid-video-api/demo/specs/selenium-easy.e2e.js\"]" ],
   "name" : "spec files"
 } ]

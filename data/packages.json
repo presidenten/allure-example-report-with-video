@@ -5,37 +5,37 @@
     "name" : "User list",
     "children" : [ {
       "name" : "should be able edit input",
-      "uid" : "65f143250a49210d",
+      "uid" : "d6f60d209d051e19",
       "parentUid" : "5b1bf457ebdc68e06082b362d47d86bb",
       "status" : "passed",
       "time" : {
-        "start" : 1528014332035,
-        "stop" : 1528014335908,
-        "duration" : 3873
+        "start" : 1528020288595,
+        "stop" : 1528020298672,
+        "duration" : 10077
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "should be able to move slider",
-      "uid" : "561d9a0d5985ce6c",
+      "uid" : "76dfe933b1e23d3e",
       "parentUid" : "5b1bf457ebdc68e06082b362d47d86bb",
       "status" : "failed",
       "time" : {
-        "start" : 1528014335908,
-        "stop" : 1528014338356,
-        "duration" : 2448
+        "start" : 1528020298672,
+        "stop" : 1528020301009,
+        "duration" : 2337
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "should be able to multi-select in dropdown",
-      "uid" : "79bf9a506d8bcd14",
+      "uid" : "3e14a0e2dd4c4a7f",
       "parentUid" : "5b1bf457ebdc68e06082b362d47d86bb",
       "status" : "failed",
       "time" : {
-        "start" : 1528014338356,
-        "stop" : 1528014340474,
-        "duration" : 2118
+        "start" : 1528020301009,
+        "stop" : 1528020302965,
+        "duration" : 1956
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
